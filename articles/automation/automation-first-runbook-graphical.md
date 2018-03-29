@@ -42,7 +42,7 @@ ms.lasthandoff: 03/23/2018
 
    Automation 계정 페이지는 이 계정의 리소스 간략히 보기를 제공합니다. 사용자는 일부 자산이 이미 있어야 합니다. 대부분의 해당 자산은 새 Automation 계정에 자동적으로 포함되어 있는 모듈입니다. 또한 사용자는 [필수 구성 요소](#prerequisites)에서 언급된 자격 증명 자산이 있어야 합니다.
 
-2. **프로세스 관리** 아래에서 **Runbook**을 선택하여 Runbook 목록을 엽니다.
+2. **프로세스 자동화** 아래에서 **Runbook**을 선택하여 Runbook 목록을 엽니다.
 3. **+ Runbook 추가**를 선택하고 **새 Runbook 만들기**를 클릭하여 새 Runbook을 만듭니다.
 4. Runbook 이름을 *MyFirstRunbook-Graphical*로 지정합니다.
 5. 이 경우에 **Runbook 형식**으로 **그래픽**을 선택하여 [그래픽 Runbook](automation-graphical-authoring-intro.md)을 만듭니다.<br> ![새 runbook](media/automation-first-runbook-graphical/create-new-runbook.png)<br>

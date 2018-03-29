@@ -76,7 +76,7 @@ ms.lasthandoff: 03/23/2018
 1. **시작** 을 클릭하여 테스트를 시작합니다. 유일하게 사용 가능한 옵션이어야 합니다.
 1. 이 창에서 [Runbook 작업](automation-runbook-execution.md) 이 생성되고 해당 상태가 표시됩니다.
 
-   작업 상태는 클라우드에서 runbook worker를 사용할 수 있을 때까지 기다리고 있음을 나타내는 *대기*로 시작됩니다. 작업자가 작업을 요구한 경우 *시작 중*으로 바뀐 다음 Runbook이 실제로 실행되기 시작하면 *실행 중*으로 바뀝니다.
+   작업 상태는 클라우드에서 runbook worker를 사용할 수 있을 때까지 기다리고 있음을 나타내는 *큐 대기...*로 시작됩니다. 작업자가 작업을 요구한 경우 *시작 중*으로 바뀐 다음 Runbook이 실제로 실행되기 시작하면 *실행 중*으로 바뀝니다.
 
 1. Runbook 작업이 완료되면 해당 출력이 표시됩니다. 이 경우에 *Hello World*가 표시됩니다.<br> ![Hello World](media/automation-first-runbook-graphical/runbook-test-results.png)
 1. 캔버스로 돌아가려면 테스트 페이지를 닫습니다.
